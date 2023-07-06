@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project Home</string>
+    <string name="hint_mridul_food_cost">Mridul Food Cost</string>
+    <string name="hint_mridul_utility_cost">Mridul Utility Cost</string>
+
+    <string name="hint_azmal_food_cost">Azmal Food Cost</string>
+    <string name="hint_azmal_utility_cost">Azmal Utility Cost</string>
+
+    <string name="hint_nasif_food_cost">Nasif Food Cost</string>
+    <string name="hint_nasif_utility_cost">Nasif Utility Cost</string>
+
+</resources>
